@@ -1,0 +1,16 @@
+.login{
+    margin-top: 80px;
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card{
+    margin-top: 25px;
+}
+
+.card-body{
+    width: 400px;
+}

@@ -1,0 +1,42 @@
+.categoryouter{
+    display: flex;
+    flex-direction: column;
+}
+
+.cat_heading{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cat_heading > h1{
+   font-family:cursive;
+   font-size: 30px;
+   font-weight: 500;
+}
+
+.createbtn{
+    padding: 5px 15px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: cursive;
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.cr{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: cursive;
+}
+.cc{
+    margin: 20px;
+    font-family: cursive;
+}
